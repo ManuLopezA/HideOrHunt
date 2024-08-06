@@ -1,0 +1,32 @@
+Non-Commercial No-Derivatives Software License
+
+Copyright (c) 2024 EstoEsUnaDemo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, and distribute the Software, subject to the following conditions:
+
+1. **Non-Commercial Use Only**: The Software is made available for use, copying,
+   and distribution for non-commercial purposes only. Commercial use, including
+   but not limited to selling, licensing, or distributing the Software for profit,
+   is expressly prohibited.
+
+2. **No Modifications**: The Software must not be modified in any way. This includes,
+   but is not limited to, changes to the source code, design, or any other aspect
+   of the Software.
+
+3. **Attribution**: Any use, copying, or distribution of the Software must include
+   proper attribution to the original authors.
+
+4. **Redistribution**: Redistribution of the Software must include this license
+   notice in its entirety.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+For any questions or additional permissions, contact manu.lopag@gmail.com
