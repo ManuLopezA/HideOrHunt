@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88b1f559cf5799f45b7cf3e7c7f30f2d, type: 3}
+  m_Name: Mountain_Collect_01
+  m_EditorClassIdentifier: 
+  title: Searching Money
+  description: Look on the map for a cluster of coins and collect 5
+  availableTimeSec: 25
+  waitTimeSec: 10
+  image: {fileID: 21300000, guid: d018bc8d45e410c44bc6a561a24a050e, type: 3}
+  progress: 5
+  difficulty: 0
+  prefabToCollect: {fileID: 2930997097644540052, guid: a666dfd12f439a54eaaa9c80c7bf0c5b,
+    type: 3}
+  positions:
+  - {x: 21, y: 5}
+  - {x: 22, y: 4}
+  - {x: 20, y: 6}
+  - {x: 19, y: 8}
+  - {x: 26, y: 5}
+  - {x: 21, y: 39}
+  - {x: 22, y: 38}
+  - {x: 20, y: 40}
+  - {x: 18, y: 41}
+  - {x: 26, y: 38}
+  - {x: 54, y: 42}
+  - {x: 44, y: 66}
+  - {x: 42, y: 70}
+  - {x: 42, y: 68}
+  - {x: 43, y: 70}
+  - {x: 40, y: 74}
+  - {x: 47, y: 72}
+  - {x: 74, y: 79}
+  - {x: 76, y: 79}
+  - {x: 77, y: 76}
+  - {x: 59, y: 94}
+  - {x: 60, y: 91}
+  - {x: 49, y: 88}
+  - {x: 54, y: 85}
+  - {x: 18, y: 89}
+  - {x: 18, y: 83}
+  - {x: 17, y: 81}
+  - {x: 77, y: 76}
+  - {x: 8, y: 89}

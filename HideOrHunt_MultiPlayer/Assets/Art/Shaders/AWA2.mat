@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4668341682496242059
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AWA2
+  m_Shader: {fileID: -6465566751694194690, guid: 8418b4084dd564e4c9b7f92f0b6ff6d1,
+    type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 8418b4084dd564e4c9b7f92f0b6ff6d1,
+    type: 3}
+  m_ModifiedSerializedProperties: 20
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3003
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Densidad: 7.67
+    - _QueueControl: 1
+    - _QueueOffset: 3
+    - _Velocidad: 3.75
+    - _Velocidad_Oleaje: 0.65
+    - _oleaje: 1.7
+    m_Colors:
+    - _Agua: {r: 0.5330188, g: 0.8100944, b: 1, a: 0}
+    - _Color_Olas: {r: 0.4308473, g: 0.7215948, b: 0.8867924, a: 1}
+    - _Tiling: {r: 0.59, g: 0.52, b: 0, a: 0}
+  m_BuildTextureStacks: []

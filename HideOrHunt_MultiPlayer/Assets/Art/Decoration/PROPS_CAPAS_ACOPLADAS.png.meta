@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: ddfea08603f6dfd4d9d9cbed40a186d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_0
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2350
+        width: 375
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e99b1b85b36344b264c0b080a8e36
+      internalID: -26484928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_1
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2358
+        width: 268
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a820be65d1504ab0adbd14e66c195
+      internalID: 937580874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_2
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2352
+        width: 310
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335f6e08ac0b164f95fac96d6de881d
+      internalID: 707531128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_3
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2350
+        width: 215
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd453192e141014f959d224b419662d
+      internalID: -1683340367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_4
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2619
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09206647d3dc8db42984e17c4bed2db1
+      internalID: -1179488277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_5
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2619
+        width: 143
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001271413adbeac4e870bb5f80973165
+      internalID: -584009411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_6
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 2619
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a0a3d83def364dbe090aa8944b6e6
+      internalID: 485134803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_7
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2608
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab0224c1fb51e48840566a17700e45
+      internalID: -1029544454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_8
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 2608
+        width: 229
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8030032c59d7fd4eb35a18bff1852ee
+      internalID: -1614619766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2358
+        width: 285
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373fe3e49bcdf0f468de3884d13b7edc
+      internalID: 344584525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2358
+        width: 218
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b516cf6612dcc044a922572303a4c5f9
+      internalID: 1502073532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_11
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 2354
+        width: 249
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b76018cc99def34492b7ef4dd85817d
+      internalID: 902253698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_12
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2352
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664b1eb2df15dc4d92e3330b082d720
+      internalID: 465400572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_13
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2352
+        width: 247
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379aebaf37a4c84790f8db32e87db6b
+      internalID: 210020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_14
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 2354
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bbec4b3ac9f24b90b5023266d8cc5
+      internalID: 221506138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_15
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2354
+        width: 164
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a619f4d60b2044a1a6e1efba45aea
+      internalID: -250047985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_16
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 2350
+        width: 267
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7043da3a1abc04da12c6223830742e
+      internalID: -415852148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_17
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2326
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c082e52e3a8bf4ba55c49b9676686b
+      internalID: 1365087078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1243
+        width: 657
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69ede10e7049947b7532ac348817ab
+      internalID: 1707673298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1245
+        width: 660
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00763272b35e1054bb437eac0e4c8be2
+      internalID: 1878721556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_20
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1256
+        width: 858
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e2facb873d5349a33137ef2d6bc6f
+      internalID: -790662373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_21
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1254
+        width: 826
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45805a79ec487446abc898300400f45
+      internalID: -1224914956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_22
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1801
+        width: 119
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64778307e666d394984348a0133cc3a5
+      internalID: 1582024292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_23
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1797
+        width: 198
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869201fc685f424ca2b72cd4c77bbe5
+      internalID: -1144409917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_24
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 1789
+        width: 194
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba15db0ccf4dd342a73e44598595454
+      internalID: 209193963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_25
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1561
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4242353bce3196f43bde306fef969428
+      internalID: 1937982737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_26
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1555
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7976dce6aadef58478cc6609820ec74a
+      internalID: 1666220586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_27
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 1569
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243fb500ec66b8345a242c69cdb5a51d
+      internalID: -1017275663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_28
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1340
+        width: 82
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97019366b210c4999d73118f02a4ca
+      internalID: 12702181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_29
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1333
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223455315c99294aa1090ec81626e43
+      internalID: -517981986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_30
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 1333
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e480bd65025624eb4ce9f2d656d720
+      internalID: 1933814982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 660
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e03ef518b9d34da6e7899cee98659
+      internalID: -1541459719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_32
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 62
+        width: 659
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c68d5aadadfc6e4d8b4645d278446a5
+      internalID: -400367933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_33
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 73
+        width: 857
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe7a4781450bd4497601a50838f5a3
+      internalID: -862787322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_34
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 975
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642d61dad85325641ad9d904b8abaeba
+      internalID: 2127191493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_35
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 975
+        width: 142
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af034fd865d544468c91ea7d2f926cb
+      internalID: 181728012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_36
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 975
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1c2b5fa249de4b927fa9bb976b443
+      internalID: -1823870605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_37
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 71
+        width: 825
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bedabdc12a0044932eedd796c1e18
+      internalID: 52550920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_38
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 710
+        width: 251
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ba7a7ff377f4479eff0ae858326a8
+      internalID: -723026537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_39
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 708
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609d18025da0fe94aaf805e1065d850b
+      internalID: -1010303087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_40
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 710
+        width: 248
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693056eaabac8f44fa39ec7812113e8e
+      internalID: 530578590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_41
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 710
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2a0328d3551b4fbd48294c5ce0550
+      internalID: -290901299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_42
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 522
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af6c4b419c0c641b07b92f81bdf078
+      internalID: -1417184901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_43
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 522
+        width: 230
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54400e9c4779c145bb6f02b4c8b1a41
+      internalID: 1966483626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_44
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 274
+        width: 187
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c32420cb5a4447948142e20165610
+      internalID: -1209077609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_45
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 267
+        width: 272
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2a59d4e8bd204db6794597918db8e
+      internalID: -2087720872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_46
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 64
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a4968e1474eb4e9ee7e1e3685a764
+      internalID: 153903808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_47
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 56
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb87bf32bdca854ebf8de9cb4c02732
+      internalID: 1084629047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROPS_CAPAS_ACOPLADAS_48
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 56
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecfc7b6895bff4fb1b1ac8125fc583
+      internalID: -1435814104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PROPS_CAPAS_ACOPLADAS_0: -26484928
+      PROPS_CAPAS_ACOPLADAS_1: 937580874
+      PROPS_CAPAS_ACOPLADAS_10: 1502073532
+      PROPS_CAPAS_ACOPLADAS_11: 902253698
+      PROPS_CAPAS_ACOPLADAS_12: 465400572
+      PROPS_CAPAS_ACOPLADAS_13: 210020721
+      PROPS_CAPAS_ACOPLADAS_14: 221506138
+      PROPS_CAPAS_ACOPLADAS_15: -250047985
+      PROPS_CAPAS_ACOPLADAS_16: -415852148
+      PROPS_CAPAS_ACOPLADAS_17: 1365087078
+      PROPS_CAPAS_ACOPLADAS_18: 1707673298
+      PROPS_CAPAS_ACOPLADAS_19: 1878721556
+      PROPS_CAPAS_ACOPLADAS_2: 707531128
+      PROPS_CAPAS_ACOPLADAS_20: -790662373
+      PROPS_CAPAS_ACOPLADAS_21: -1224914956
+      PROPS_CAPAS_ACOPLADAS_22: 1582024292
+      PROPS_CAPAS_ACOPLADAS_23: -1144409917
+      PROPS_CAPAS_ACOPLADAS_24: 209193963
+      PROPS_CAPAS_ACOPLADAS_25: 1937982737
+      PROPS_CAPAS_ACOPLADAS_26: 1666220586
+      PROPS_CAPAS_ACOPLADAS_27: -1017275663
+      PROPS_CAPAS_ACOPLADAS_28: 12702181
+      PROPS_CAPAS_ACOPLADAS_29: -517981986
+      PROPS_CAPAS_ACOPLADAS_3: -1683340367
+      PROPS_CAPAS_ACOPLADAS_30: 1933814982
+      PROPS_CAPAS_ACOPLADAS_31: -1541459719
+      PROPS_CAPAS_ACOPLADAS_32: -400367933
+      PROPS_CAPAS_ACOPLADAS_33: -862787322
+      PROPS_CAPAS_ACOPLADAS_34: 2127191493
+      PROPS_CAPAS_ACOPLADAS_35: 181728012
+      PROPS_CAPAS_ACOPLADAS_36: -1823870605
+      PROPS_CAPAS_ACOPLADAS_37: 52550920
+      PROPS_CAPAS_ACOPLADAS_38: -723026537
+      PROPS_CAPAS_ACOPLADAS_39: -1010303087
+      PROPS_CAPAS_ACOPLADAS_4: -1179488277
+      PROPS_CAPAS_ACOPLADAS_40: 530578590
+      PROPS_CAPAS_ACOPLADAS_41: -290901299
+      PROPS_CAPAS_ACOPLADAS_42: -1417184901
+      PROPS_CAPAS_ACOPLADAS_43: 1966483626
+      PROPS_CAPAS_ACOPLADAS_44: -1209077609
+      PROPS_CAPAS_ACOPLADAS_45: -2087720872
+      PROPS_CAPAS_ACOPLADAS_46: 153903808
+      PROPS_CAPAS_ACOPLADAS_47: 1084629047
+      PROPS_CAPAS_ACOPLADAS_48: -1435814104
+      PROPS_CAPAS_ACOPLADAS_5: -584009411
+      PROPS_CAPAS_ACOPLADAS_6: 485134803
+      PROPS_CAPAS_ACOPLADAS_7: -1029544454
+      PROPS_CAPAS_ACOPLADAS_8: -1614619766
+      PROPS_CAPAS_ACOPLADAS_9: 344584525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
