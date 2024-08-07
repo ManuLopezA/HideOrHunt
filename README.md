@@ -48,4 +48,3 @@ This project has been created by:
 - **Releases**: [Access Previous Versions](https://gitlab.com/estoesunademo/hideorhunt/-/releases)
 
 Thank you for playing and supporting Hide or Hunt!
-..
