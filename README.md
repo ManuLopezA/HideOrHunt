@@ -1,6 +1,6 @@
 # 🎮✨ HIDE OR HUNT ✨🎮
 
-**❇ Hide or Hunt ❇** is a demo of a multiplayer video game developed by **EstoEsUnaDemo**, a team consisting of Martí Comas, David Gómez, and myself: Manuel López. 
+**❇ Hide or Hunt ❇** is a demo of a multiplayer video game developed by **EstoEsUnaDemo**, a team consisting of [Martí Comas](https://github.com/m4rti21), [David Gómez](https://github.com/deividelcheese), and myself: [Manuel López](https://github.com/manulopeza). 
 We created this project as part of our final coursework for the Higher Education Degree in **Multiplatform Application Development with a specialization in Video Games** at **IES Sabadell**. 
 Our development period spanned from April to June 2024.
 
