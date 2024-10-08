@@ -4,6 +4,8 @@
 We created this project as part of our final coursework for the Higher Education Degree in **Multiplatform Application Development with a specialization in Video Games** at **IES Sabadell**. 
 Our development period spanned from April to June 2024.
 
+[![Trailer](http://img.youtube.com/vi/1J5U7lFG6uQ/0.jpg)](http://www.youtube.com/watch?v=1J5U7lFG6uQ "HideOrHunt Trailer")
+
 ## 📖 How to Play
 
 1. **Choose Host or Client**: Select whether you want to be a HOST or a CLIENT. If you choose to be the HOST, you must share your IP address with the other participants.
