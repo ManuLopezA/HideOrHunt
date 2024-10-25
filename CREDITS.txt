@@ -2,7 +2,7 @@
 
 This video game has been developed by "EstoEsUnaDemo", a group formed by Martí Comas, David Gómez, and Manuel López.
 
-All graphical elements, including characters, background items, buttons, and the logo, have been created by and are the property of Manuel López ==> https://www.behance.net/manulobez
+All graphical elements, including characters, background items, buttons, and the logo, have been created by and are the property of Manuel López ==> https://linktr.ee/manulopeza
 
 Except===>
 
